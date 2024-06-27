@@ -1,0 +1,1 @@
+[11-Apr-2024 01:34:15 America/Sao_Paulo] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Users\barat\Documents\VSCODE_PROJETOS\Projetos\ALPHA\send_email.php on line 18
